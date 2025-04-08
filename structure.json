@@ -1,14 +1,13 @@
 {
-  "shelve": "Test Shelve",
   "book_name": "Egor's book",
   "book_description": "Demo book description",
+  "book_description_html": "<p>Demo book description</p>",
   "cover_b64": "NONE",
-  "pages": [
+  "chapters": [
     {
-      "name": "Chapter 1",
-      "content": [
-        "./chapter_1/environment_advanced_services.md"
-      ],
+      "name": "Chapter 1: The introduction",
+      "chapter_description": "The introduction chapter",
+      "chapter_description_html": "<p>The introduction chapter</p>",
       "tags": [
         {
           "name": "Category",
@@ -18,37 +17,55 @@
           "name": "Rating",
           "value": "Highest"
         }
-      ]
-    },
-    {
-      "name": "Chapter 2",
-      "content": [
-        "./chapter_2/CHANGELOG.md"
       ],
-      "tags": [
+      "pages": [
         {
-          "name": "Category",
-          "value": "Top Content"
+          "name": "Part1 1",
+          "content": [
+            "./chapter_1/part_1/environment_advanced_services.md"
+          ],
+          "tags": [
+            {
+              "name": "Category",
+              "value": "Top Content"
+            },
+            {
+              "name": "Rating",
+              "value": "Highest"
+            }
+          ]
         },
         {
-          "name": "Rating",
-          "value": "Highest"
-        }
-      ]
-    },
-    {
-      "name": "Chapter 3",
-      "content": [
-        "./chapter_3/README.md"
-      ],
-      "tags": [
-        {
-          "name": "Category",
-          "value": "Top Content"
+          "name": "Chapter 2",
+          "content": [
+            "./chapter_1/part_2/CHANGELOG.md"
+          ],
+          "tags": [
+            {
+              "name": "Category",
+              "value": "Top Content"
+            },
+            {
+              "name": "Rating",
+              "value": "Highest"
+            }
+          ]
         },
         {
-          "name": "Rating",
-          "value": "Highest"
+          "name": "Chapter 3",
+          "content": [
+            "./chapter_1/part_3/README.md"
+          ],
+          "tags": [
+            {
+              "name": "Category",
+              "value": "Top Content"
+            },
+            {
+              "name": "Rating",
+              "value": "Highest"
+            }
+          ]
         }
       ]
     }
