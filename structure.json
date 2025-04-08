@@ -1,0 +1,72 @@
+{
+  "shelve": "Test Shelve",
+  "book_name": "Egor's book",
+  "book_description": "Demo book description",
+  "cover_b64": "NONE",
+  "pages": [
+    {
+      "name": "Chapter 1",
+      "content": [
+        "./chapter_1/environment_advanced_services.md"
+      ],
+      "tags": [
+        {
+          "name": "Category",
+          "value": "Top Content"
+        },
+        {
+          "name": "Rating",
+          "value": "Highest"
+        }
+      ]
+    },
+    {
+      "name": "Chapter 2",
+      "content": [
+        "./chapter_2/CHANGELOG.md"
+      ],
+      "tags": [
+        {
+          "name": "Category",
+          "value": "Top Content"
+        },
+        {
+          "name": "Rating",
+          "value": "Highest"
+        }
+      ]
+    },
+    {
+      "name": "Chapter 3",
+      "content": [
+        "./chapter_3/README.md"
+      ],
+      "tags": [
+        {
+          "name": "Category",
+          "value": "Top Content"
+        },
+        {
+          "name": "Rating",
+          "value": "Highest"
+        }
+      ]
+    },
+    {
+      "name": "Chapter 4",
+      "content": [
+        "./chapter_4/Coursebook.pdf"
+      ],
+      "tags": [
+        {
+          "name": "Category",
+          "value": "Top Content"
+        },
+        {
+          "name": "Rating",
+          "value": "Highest"
+        }
+      ]
+    }
+  ]
+}
