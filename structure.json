@@ -51,22 +51,6 @@
           "value": "Highest"
         }
       ]
-    },
-    {
-      "name": "Chapter 4",
-      "content": [
-        "./chapter_4/Coursebook.pdf"
-      ],
-      "tags": [
-        {
-          "name": "Category",
-          "value": "Top Content"
-        },
-        {
-          "name": "Rating",
-          "value": "Highest"
-        }
-      ]
     }
   ]
 }
