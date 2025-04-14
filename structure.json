@@ -3,7 +3,6 @@
   "book_description": "Demo book description",
   "book_description_html": "<p>Demo book description</p>",
   "cover_b64": "NONE",
-  "uuid": "b0603245-9593-49cc-8ac6-751c08ff5037",
   "chapters": [
     {
       "name": "Chapter 1: The introduction",
