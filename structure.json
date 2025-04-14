@@ -22,7 +22,7 @@
       ],
       "pages": [
         {
-          "name": "Part1 1",
+          "name": "Part 1",
           "uuid": "00883f4d-e7cd-4e03-bb28-e6a27be6b9d1",
           "content": [
             "./chapter_1/part_1/environment_advanced_services.md"
