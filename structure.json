@@ -39,7 +39,7 @@
           ]
         },
         {
-          "name": "Chapter 2",
+          "name": "Part 2",
           "uuid": "29885921-94b2-4951-ad65-40873f00de25",
           "content": [
             "./chapter_1/part_2/CHANGELOG.md"
@@ -56,7 +56,7 @@
           ]
         },
         {
-          "name": "Chapter 3",
+          "name": "Part 3",
           "uuid": "f29a2772-e4d0-4000-a802-dc7d2a3d0e77",
           "content": [
             "./chapter_1/part_3/README.md"
