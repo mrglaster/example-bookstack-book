@@ -3,11 +3,13 @@
   "book_description": "Demo book description",
   "book_description_html": "<p>Demo book description</p>",
   "cover_b64": "NONE",
+  "uuid": "b0603245-9593-49cc-8ac6-751c08ff5037",
   "chapters": [
     {
       "name": "Chapter 1: The introduction",
       "chapter_description": "The introduction chapter",
       "chapter_description_html": "<p>The introduction chapter</p>",
+      "uuid": "9f5ed954-b8a1-4337-bc2f-cffbae768d2b",
       "tags": [
         {
           "name": "Category",
@@ -21,6 +23,7 @@
       "pages": [
         {
           "name": "Part1 1",
+          "uuid": "00883f4d-e7cd-4e03-bb28-e6a27be6b9d1",
           "content": [
             "./chapter_1/part_1/environment_advanced_services.md"
           ],
@@ -37,6 +40,7 @@
         },
         {
           "name": "Chapter 2",
+          "uuid": "29885921-94b2-4951-ad65-40873f00de25",
           "content": [
             "./chapter_1/part_2/CHANGELOG.md"
           ],
@@ -53,6 +57,7 @@
         },
         {
           "name": "Chapter 3",
+          "uuid": "f29a2772-e4d0-4000-a802-dc7d2a3d0e77",
           "content": [
             "./chapter_1/part_3/README.md"
           ],
