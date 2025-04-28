@@ -1,6 +1,6 @@
 # Changelog
 
-This file includes a history of past releases. Changes that were not yet added to a release are in the [changelog.d/](./changelog.d) folder.
+This file includes a history of past releases. Changes that were not yet added to a release are in the [changelog.d/](./changelog.d) folder. BLABLABLABLABLA
 
 <!--
 ⚠️ DO NOT ADD YOUR CHANGES TO THIS FILE! (unless you want to modify existing changelog entries in this file)
